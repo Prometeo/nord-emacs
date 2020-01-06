@@ -2,6 +2,7 @@
 
 ;; Copyright (C) 2016-present Arctic Ice Studio <development@arcticicestudio.com> (https://www.arcticicestudio.com)
 ;; Copyright (C) 2016-present Sven Greb <development@svengreb.de> (https://www.svengreb.de)
+;; Forked from https://github.com/arcticicestudio/nord-emacs
 
 ;; Title: Nord Theme
 ;; Project: nord-emacs
@@ -496,7 +497,7 @@
    `(diff-hl-change ((,class (:background ,nord13))))
    `(diff-hl-insert ((,class (:background ,nord14))))
    `(diff-hl-delete ((,class (:background ,nord11))))
-   
+
     ;; > Evil
     `(evil-ex-info ((,class (:foreground ,nord8))))
     `(evil-ex-substitute-replacement ((,class (:foreground ,nord9))))
